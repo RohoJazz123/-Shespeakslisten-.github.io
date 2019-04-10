@@ -1,0 +1,10 @@
+style>
+	html {
+    min-height: 100%; 
+}
+body {
+    background: -webkit-linear-gradient(#c7c8db, #ffffff); 
+    background: -o-linear-gradient(#c7c8db, #ffffff); 
+    background: -moz-linear-gradient(#c7c8db, #ffffff); 
+    background: linear-gradient(#c7c8db, #ffffff); 
+    background-color: #c7c8db;
